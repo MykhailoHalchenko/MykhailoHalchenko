@@ -2,4 +2,4 @@
 - 👀 I’m interested in different projects in C++
 - 🌱 I’m currently learning C++, Python
 - 💞️ I’m looking to collaborate on gamedev studios and startUPs
-- 📫 How to reach me https://t.me/Obrien_Jones
+- 📫 How to reach me https://www.linkedin.com/in/mykhailo-halchenko-b32392252/
