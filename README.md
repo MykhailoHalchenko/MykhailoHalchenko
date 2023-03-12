@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MykhailoHalchenko aka Mykhailo from Ukraine
-- 👀 I’m interested in different projects in C++
-- 🌱 I’m currently learning C++, Python
+- 👀 I’m interested in different projects in C++ and C#
+- 🌱 I’m currently learning C++, Python and C#
 - 💞️ I’m looking to collaborate on gamedev studios and startUPs
 - 📫 How to reach me https://www.linkedin.com/in/mykhailo-halchenko-b32392252/
