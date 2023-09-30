@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MykhailoHalchenko aka Mykhailo from Ukraine
-- 👀 I’m interested in different projects in C++ and C#
-- 🌱 I’m currently learning C++, Python and C#
-- 💞️ I’m looking to collaborate on gamedev studios and startUPs
-- 📫 How to reach me https://www.linkedin.com/in/mykhailo-halchenko-b32392252/
+- 👋 Hi, I’m Mykhailo Halchenko from Ukraine
+- 👀 I’m interested in game projects in Unreal Engine 5
+- 🌱 I’m currently make a video games in Unreal Engine 5
+- 💞️ I’m looking to work with teams who make a video games in Unreal Engine 5
+- 📫 How to reach me obrien.jones1984@gmail.com
