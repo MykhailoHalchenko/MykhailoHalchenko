@@ -1,5 +1,0 @@
-- 👋 Hi, I’m Mykhailo Halchenko from Ukraine
-- 👀 I’m interested in game projects in Unreal Engine 5
-- 🌱 I’m currently make a video games in Unreal Engine 5
-- 💞️ I’m looking to work with teams who make a video games in Unreal Engine 5
-- 📫 How to reach me obrien.jones1984@gmail.com
